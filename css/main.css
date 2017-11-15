@@ -1,0 +1,15 @@
+div {
+  width: 200px;
+  height: 200px;
+  border: 1px solid blue;
+}
+
+.textColor {
+  color: pink;
+}
+
+.big {
+  width: 400px;
+  height: 300px;
+  background: green;
+}
